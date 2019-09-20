@@ -23,3 +23,4 @@ This demo uses:
 * Put your AppID and ApiKey into `src/config.js` file
 * run `npm start`
 * A browser will open `localhost:3000`
+* Test with the following userIDs: superhero1, superhero2, superhero3, superhero4, superhero5
